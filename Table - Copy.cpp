@@ -14,3 +14,4 @@ int main() {
 }
 
 //Masood Akhtar
+//Hammad code is here
